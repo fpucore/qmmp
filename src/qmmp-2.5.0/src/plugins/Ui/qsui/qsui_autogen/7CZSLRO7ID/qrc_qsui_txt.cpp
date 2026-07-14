@@ -1,0 +1,115 @@
+/****************************************************************************
+** Resource object code
+**
+** Created by: The Resource Compiler for Qt version 6.11.1
+**
+** WARNING! All changes made in this file will be lost!
+*****************************************************************************/
+
+#ifdef _MSC_VER
+// disable informational message "function ... selected for automatic inline expansion"
+#pragma warning (disable: 4711)
+#endif
+
+static const unsigned char qt_resource_data[] = {
+  // ascii_logo.txt
+  0x0,0x0,0x0,0x6c,
+  0x28,
+  0xb5,0x2f,0xfd,0x60,0x23,0x1,0x15,0x3,0x0,0x42,0xc7,0xb,0xa,0xe0,0x69,0xc,
+  0x54,0xfd,0x8e,0x19,0x3,0xed,0x5d,0x30,0xdb,0xfc,0xd1,0x63,0xb6,0xe9,0xb3,0x6d,
+  0xa3,0x98,0xff,0x30,0xdb,0x7c,0xfa,0x10,0xa2,0x87,0x98,0x4c,0xc3,0xc8,0x4,0x49,
+  0x4,0x49,0x4c,0x12,0x1b,0x76,0x4c,0xef,0x21,0xae,0x10,0x18,0x20,0x70,0x15,0x44,
+  0xe9,0x5c,0xc,0xcf,0xc0,0xa7,0xee,0x2c,0x2d,0x7,0x44,0xb6,0xc0,0x89,0x6c,0x63,
+  0x9f,0xed,0x7c,0x62,0xd1,0xb0,0x92,0xef,0x3e,0xad,0xe0,0x7,0x73,0x44,0x53,0x1d,
+  0x4d,0x1d,0x62,0x48,0x37,0xc5,0x70,0x86,0x47,0xe,0x16,
+  
+};
+
+static const unsigned char qt_resource_name[] = {
+  // ascii_logo.txt
+  0x0,0xe,
+  0x7,0x21,0xad,0xb4,
+  0x0,0x61,
+  0x0,0x73,0x0,0x63,0x0,0x69,0x0,0x69,0x0,0x5f,0x0,0x6c,0x0,0x6f,0x0,0x67,0x0,0x6f,0x0,0x2e,0x0,0x74,0x0,0x78,0x0,0x74,
+  
+};
+
+static const unsigned char qt_resource_struct[] = {
+  // :
+  0x0,0x0,0x0,0x0,0x0,0x2,0x0,0x0,0x0,0x1,0x0,0x0,0x0,0x1,
+0x0,0x0,0x1,0x9f,0x5e,0x1f,0x6e,0x50,
+  // :/ascii_logo.txt
+  0x0,0x0,0x0,0x0,0x0,0x4,0x0,0x0,0x0,0x1,0x0,0x0,0x0,0x0,
+0x0,0x0,0x1,0x9f,0x5e,0x1f,0x6e,0x50,
+
+};
+
+#ifdef QT_NAMESPACE
+#  define QT_RCC_PREPEND_NAMESPACE(name) ::QT_NAMESPACE::name
+#  define QT_RCC_MANGLE_NAMESPACE0(x) x
+#  define QT_RCC_MANGLE_NAMESPACE1(a, b) a##_##b
+#  define QT_RCC_MANGLE_NAMESPACE2(a, b) QT_RCC_MANGLE_NAMESPACE1(a,b)
+#  define QT_RCC_MANGLE_NAMESPACE(name) QT_RCC_MANGLE_NAMESPACE2( \
+        QT_RCC_MANGLE_NAMESPACE0(name), QT_RCC_MANGLE_NAMESPACE0(QT_NAMESPACE))
+#else
+#   define QT_RCC_PREPEND_NAMESPACE(name) name
+#   define QT_RCC_MANGLE_NAMESPACE(name) name
+#endif
+
+#if defined(QT_INLINE_NAMESPACE)
+inline namespace QT_NAMESPACE {
+#elif defined(QT_NAMESPACE)
+namespace QT_NAMESPACE {
+#endif
+
+bool qRegisterResourceData(int, const unsigned char *, const unsigned char *, const unsigned char *);
+bool qUnregisterResourceData(int, const unsigned char *, const unsigned char *, const unsigned char *);
+
+#if defined(__ELF__) || defined(__APPLE__)
+static inline unsigned char qResourceFeatureZstd()
+{
+    extern const unsigned char qt_resourceFeatureZstd;
+    return qt_resourceFeatureZstd;
+}
+#else
+unsigned char qResourceFeatureZstd();
+#endif
+
+#ifdef QT_NAMESPACE
+}
+#endif
+
+int QT_RCC_MANGLE_NAMESPACE(qInitResources_qsui_txt)();
+int QT_RCC_MANGLE_NAMESPACE(qInitResources_qsui_txt)()
+{
+    int version = 3;
+    QT_RCC_PREPEND_NAMESPACE(qRegisterResourceData)
+        (version, qt_resource_struct, qt_resource_name, qt_resource_data);
+    return 1;
+}
+
+int QT_RCC_MANGLE_NAMESPACE(qCleanupResources_qsui_txt)();
+int QT_RCC_MANGLE_NAMESPACE(qCleanupResources_qsui_txt)()
+{
+    int version = 3;
+    version += QT_RCC_PREPEND_NAMESPACE(qResourceFeatureZstd());
+    QT_RCC_PREPEND_NAMESPACE(qUnregisterResourceData)
+       (version, qt_resource_struct, qt_resource_name, qt_resource_data);
+    return 1;
+}
+
+#ifdef __clang__
+#   pragma clang diagnostic push
+#   pragma clang diagnostic ignored "-Wexit-time-destructors"
+#endif
+
+namespace {
+   struct initializer {
+       initializer() { QT_RCC_MANGLE_NAMESPACE(qInitResources_qsui_txt)(); }
+       ~initializer() { QT_RCC_MANGLE_NAMESPACE(qCleanupResources_qsui_txt)(); }
+   } dummy;
+}
+
+#ifdef __clang__
+#   pragma clang diagnostic pop
+#endif

@@ -1,0 +1,12 @@
+prefix=/usr
+exec_prefix=/usr
+libdir=/usr/lib
+includedir=/usr/include
+plugindir=/usr/lib/qmmp-2.5
+
+Name: qmmp
+Description: qmmp core library
+Version: 2.5.0
+Requires: Qt6Core Qt6Gui Qt6Widgets
+Libs: -L${libdir} -lqmmp
+Cflags: -I${includedir}

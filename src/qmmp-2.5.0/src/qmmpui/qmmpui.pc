@@ -1,0 +1,11 @@
+prefix=/usr
+exec_prefix=/usr
+libdir=/usr/lib
+includedir=/usr/include
+
+Name: qmmpui
+Description: qmmp user interface library
+Version: 2.5.0
+Requires: qmmp Qt6Core Qt6Gui Qt6Widgets Qt6Network
+Libs: -L${libdir} -lqmmpui 
+Cflags: -I${includedir}
