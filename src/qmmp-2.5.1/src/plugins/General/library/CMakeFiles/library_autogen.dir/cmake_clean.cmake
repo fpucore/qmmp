@@ -1,0 +1,12 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/library_autogen"
+  "library_autogen/include/ui_librarysettingsdialog.h"
+  "library_autogen/include/ui_librarywidget.h"
+  "library_autogen/mocs_compilation.cpp"
+  "library_autogen/timestamp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/library_autogen.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

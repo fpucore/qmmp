@@ -1,0 +1,25 @@
+{
+	"BUILD_DIR" : "/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/General/covermanager/covermanager_autogen",
+	"CMAKE_BINARY_DIR" : "/home/chris/qmmp-all/src/qmmp-2.5.1",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/General/covermanager",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/General/covermanager",
+	"CMAKE_SOURCE_DIR" : "/home/chris/qmmp-all/src/qmmp-2.5.1",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Unix Makefiles",
+	"INCLUDE_DIR" : "/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/General/covermanager/covermanager_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/General/covermanager/images/cm_no_cover.png"
+	],
+	"LOCK_FILE" : "/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/General/covermanager/CMakeFiles/covermanager_autogen.dir/AutoRcc_cm_images_4UGIYD6VGQ_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "cm_images" ],
+	"OUTPUT_CHECKSUM" : "4UGIYD6VGQ",
+	"OUTPUT_NAME" : "qrc_cm_images.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt6/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/General/covermanager/CMakeFiles/covermanager_autogen.dir/AutoRcc_cm_images_4UGIYD6VGQ_Used.txt",
+	"SOURCE" : "/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/General/covermanager/images/cm_images.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

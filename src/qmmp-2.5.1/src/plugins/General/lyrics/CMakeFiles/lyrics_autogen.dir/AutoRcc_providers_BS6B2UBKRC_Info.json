@@ -1,0 +1,25 @@
+{
+	"BUILD_DIR" : "/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/General/lyrics/lyrics_autogen",
+	"CMAKE_BINARY_DIR" : "/home/chris/qmmp-all/src/qmmp-2.5.1",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/General/lyrics",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/General/lyrics",
+	"CMAKE_SOURCE_DIR" : "/home/chris/qmmp-all/src/qmmp-2.5.1",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Unix Makefiles",
+	"INCLUDE_DIR" : "/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/General/lyrics/lyrics_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/General/lyrics/providers/ultimate_providers.xml"
+	],
+	"LOCK_FILE" : "/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/General/lyrics/CMakeFiles/lyrics_autogen.dir/AutoRcc_providers_BS6B2UBKRC_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "providers" ],
+	"OUTPUT_CHECKSUM" : "BS6B2UBKRC",
+	"OUTPUT_NAME" : "qrc_providers.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt6/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/General/lyrics/CMakeFiles/lyrics_autogen.dir/AutoRcc_providers_BS6B2UBKRC_Used.txt",
+	"SOURCE" : "/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/General/lyrics/providers/providers.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

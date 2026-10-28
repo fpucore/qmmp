@@ -1,14 +1,11 @@
 Changelog of Qt-based Multimedia Player
 --------------
 
-Version 2.5.0 (for GNU Operating System / H-Linux)
+Version 2.5.1
+* Built against latest Qt updates.
+
+Version 2.5.0
 * Forked base source code version 2.3.3 > 2.5.0
-* H-Linux Standard Library dependency added
-* goto dependency added
-* H-Linux Human Command Layer dependency added
-* Implementation of custom build tools
-* Patched for compatibility with ffmpeg-next
-* Compiler fixes and clean-up
 * Updated version information in command-line prompt
 * Updated version information in GUI About dialog
 * Updated graphics displayed in GUI About dialog

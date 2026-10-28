@@ -1,0 +1,481 @@
+{
+	"BUILD_DIR" : "/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/libqmmp_autogen",
+	"CMAKE_BINARY_DIR" : "/home/chris/qmmp-all/src/qmmp-2.5.1",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/CMakeLists.txt",
+		"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/qmmp.pc.in"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/chris/qmmp-all/src/qmmp-2.5.1",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/libqmmp_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "libqmmp_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/abstractengine.h",
+			"MU",
+			"EWIEGA46WW/moc_abstractengine.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/audioconverter.h",
+			"MU",
+			"EWIEGA46WW/moc_audioconverter.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/audioparameters.h",
+			"MU",
+			"EWIEGA46WW/moc_audioparameters.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/channelconverter_p.h",
+			"MU",
+			"EWIEGA46WW/moc_channelconverter_p.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/channelmap.h",
+			"MU",
+			"EWIEGA46WW/moc_channelmap.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/cueparser.h",
+			"MU",
+			"EWIEGA46WW/moc_cueparser.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/decoder.h",
+			"MU",
+			"EWIEGA46WW/moc_decoder.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/dithering_p.h",
+			"MU",
+			"EWIEGA46WW/moc_dithering_p.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/effect.h",
+			"MU",
+			"EWIEGA46WW/moc_effect.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/emptyinputsource_p.h",
+			"MU",
+			"EWIEGA46WW/moc_emptyinputsource_p.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/eqsettings.h",
+			"MU",
+			"EWIEGA46WW/moc_eqsettings.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/equ/iir.h",
+			"MU",
+			"SJ2C5KU2BO/moc_iir.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/equ/iir_cfs.h",
+			"MU",
+			"SJ2C5KU2BO/moc_iir_cfs.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/equ/iir_fpu.h",
+			"MU",
+			"SJ2C5KU2BO/moc_iir_fpu.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/fft.h",
+			"MU",
+			"EWIEGA46WW/moc_fft.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/fileinputsource_p.h",
+			"MU",
+			"EWIEGA46WW/moc_fileinputsource_p.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/inputsource.h",
+			"MU",
+			"EWIEGA46WW/moc_inputsource.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/metadatamanager.h",
+			"MU",
+			"EWIEGA46WW/moc_metadatamanager.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/metadatamodel.h",
+			"MU",
+			"EWIEGA46WW/moc_metadatamodel.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/output.h",
+			"MU",
+			"EWIEGA46WW/moc_output.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/outputwriter_p.h",
+			"MU",
+			"EWIEGA46WW/moc_outputwriter_p.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/qmmp.h",
+			"MU",
+			"EWIEGA46WW/moc_qmmp.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/qmmpaudioengine_p.h",
+			"MU",
+			"EWIEGA46WW/moc_qmmpaudioengine_p.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/qmmpevents_p.h",
+			"MU",
+			"EWIEGA46WW/moc_qmmpevents_p.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/qmmpplugincache_p.h",
+			"MU",
+			"EWIEGA46WW/moc_qmmpplugincache_p.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/qmmpsettings.h",
+			"MU",
+			"EWIEGA46WW/moc_qmmpsettings.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/qmmptextcodec.h",
+			"MU",
+			"EWIEGA46WW/moc_qmmptextcodec.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/recycler_p.h",
+			"MU",
+			"EWIEGA46WW/moc_recycler_p.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/replaygain_p.h",
+			"MU",
+			"EWIEGA46WW/moc_replaygain_p.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/soundcore.h",
+			"MU",
+			"EWIEGA46WW/moc_soundcore.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/statehandler.h",
+			"MU",
+			"EWIEGA46WW/moc_statehandler.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/tagmodel.h",
+			"MU",
+			"EWIEGA46WW/moc_tagmodel.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/trackinfo.h",
+			"MU",
+			"EWIEGA46WW/moc_trackinfo.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/visual.h",
+			"MU",
+			"EWIEGA46WW/moc_visual.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/visualbuffer_p.h",
+			"MU",
+			"EWIEGA46WW/moc_visualbuffer_p.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/volume.h",
+			"MU",
+			"EWIEGA46WW/moc_volume.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/volumehandler.h",
+			"MU",
+			"EWIEGA46WW/moc_volumehandler.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/libqmmp_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/libqmmp_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"APP_NAME_SUFFIX=\"\"",
+		"LIB_DIR=\"/\"",
+		"QMMP_INSTALL_PREFIX=\"/usr\"",
+		"QMMP_LIBRARY",
+		"QMMP_PLUGIN_DIR=\"/usr/lib/qmmp-2.5\"",
+		"QMMP_WS_X11",
+		"QT_CORE_LIB",
+		"QT_DEPRECATED_WARNINGS",
+		"QT_DISABLE_DEPRECATED_BEFORE=0x060200",
+		"QT_GUI_LIB",
+		"QT_MESSAGELOGCONTEXT",
+		"QT_NO_DEBUG",
+		"QT_WIDGETS_LIB",
+		"libqmmp_EXPORTS"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp",
+		"/home/chris/qmmp-all/src/qmmp-2.5.1/src",
+		"/usr/include/qt6/QtWidgets",
+		"/usr/include/qt6",
+		"/usr/include/qt6/QtCore",
+		"/usr/lib/qt6/mkspecs/linux-g++",
+		"/usr/include/qt6/QtGui",
+		"/usr/include",
+		"/usr/include/c++/16",
+		"/usr/include/c++/16/x86_64-pc-linux-gnu",
+		"/usr/include/c++/16/backward",
+		"/usr/lib/gcc/x86_64-pc-linux-gnu/16/include",
+		"/usr/local/include"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT",
+		"Q_ENUM_NS"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-std=gnu++17",
+		"-w",
+		"-dM",
+		"-E",
+		"/usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/libqmmp_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/CMakeFiles/libqmmp_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt6/moc",
+	"QT_UIC_EXECUTABLE" : "/usr/lib/qt6/uic",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 12,
+	"SETTINGS_FILE" : "/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/CMakeFiles/libqmmp_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/abstractengine.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/audioconverter.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/audioparameters.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/channelconverter.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/channelmap.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/cueparser.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/decoder.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/dithering.cpp",
+			"MU",
+			null
+		],
+		[ "/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/effect.cpp", "MU", null ],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/emptyinputsource.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/eqsettings.cpp",
+			"MU",
+			null
+		],
+		[ "/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/equ/iir.c", "MU", null ],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/equ/iir_cfs.c",
+			"MU",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/equ/iir_fpu.c",
+			"MU",
+			null
+		],
+		[ "/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/fft.c", "MU", null ],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/fileinputsource.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/inputsource.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/metadatamanager.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/metadatamodel.cpp",
+			"MU",
+			null
+		],
+		[ "/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/output.cpp", "MU", null ],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/outputwriter.cpp",
+			"MU",
+			null
+		],
+		[ "/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/qmmp.cpp", "MU", null ],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/qmmpaudioengine.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/qmmpevents.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/qmmpplugincache.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/qmmpsettings.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/qmmptextcodec.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/recycler.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/replaygain.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/soundcore.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/statehandler.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/tagmodel.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/trackinfo.cpp",
+			"MU",
+			null
+		],
+		[ "/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/visual.cpp", "MU", null ],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/visualbuffer.cpp",
+			"MU",
+			null
+		],
+		[ "/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/volume.cpp", "MU", null ],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/qmmp/volumehandler.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

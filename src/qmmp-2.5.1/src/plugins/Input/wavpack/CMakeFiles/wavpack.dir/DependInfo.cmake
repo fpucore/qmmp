@@ -1,0 +1,29 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  )
+
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "" "src/plugins/Input/wavpack/wavpack_autogen/timestamp" "custom" "src/plugins/Input/wavpack/wavpack_autogen/deps"
+  "/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Input/wavpack/decoder_wavpack.cpp" "src/plugins/Input/wavpack/CMakeFiles/wavpack.dir/decoder_wavpack.cpp.o" "gcc" "src/plugins/Input/wavpack/CMakeFiles/wavpack.dir/decoder_wavpack.cpp.o.d"
+  "/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Input/wavpack/decoderwavpackfactory.cpp" "src/plugins/Input/wavpack/CMakeFiles/wavpack.dir/decoderwavpackfactory.cpp.o" "gcc" "src/plugins/Input/wavpack/CMakeFiles/wavpack.dir/decoderwavpackfactory.cpp.o.d"
+  "/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Input/wavpack/wavpack_autogen/YTRUC5LEIS/qrc_translations.cpp" "src/plugins/Input/wavpack/CMakeFiles/wavpack.dir/wavpack_autogen/YTRUC5LEIS/qrc_translations.cpp.o" "gcc" "src/plugins/Input/wavpack/CMakeFiles/wavpack.dir/wavpack_autogen/YTRUC5LEIS/qrc_translations.cpp.o.d"
+  "/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Input/wavpack/wavpack_autogen/mocs_compilation.cpp" "src/plugins/Input/wavpack/CMakeFiles/wavpack.dir/wavpack_autogen/mocs_compilation.cpp.o" "gcc" "src/plugins/Input/wavpack/CMakeFiles/wavpack.dir/wavpack_autogen/mocs_compilation.cpp.o.d"
+  "/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Input/wavpack/wavpackmetadatamodel.cpp" "src/plugins/Input/wavpack/CMakeFiles/wavpack.dir/wavpackmetadatamodel.cpp.o" "gcc" "src/plugins/Input/wavpack/CMakeFiles/wavpack.dir/wavpackmetadatamodel.cpp.o.d"
+  "" "src/plugins/Input/wavpack/libwavpack.so" "gcc" "src/plugins/Input/wavpack/CMakeFiles/wavpack.dir/link.d"
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_FORWARD_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

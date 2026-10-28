@@ -1,0 +1,142 @@
+liblyrics.so: \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/crti.o \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/16/crtbeginS.o \
+  CMakeFiles/lyrics.dir/lyrics_autogen/mocs_compilation.cpp.o \
+  CMakeFiles/lyrics.dir/lyrics.cpp.o \
+  CMakeFiles/lyrics.dir/lyricsfactory.cpp.o \
+  CMakeFiles/lyrics.dir/lyricsprovider.cpp.o \
+  CMakeFiles/lyrics.dir/lyricswidget.cpp.o \
+  CMakeFiles/lyrics.dir/lyricssettingsdialog.cpp.o \
+  CMakeFiles/lyrics.dir/ultimatelyricsparser.cpp.o \
+  CMakeFiles/lyrics.dir/lyrics_autogen/YTRUC5LEIS/qrc_translations.cpp.o \
+  CMakeFiles/lyrics.dir/lyrics_autogen/BS6B2UBKRC/qrc_providers.cpp.o \
+  ../../../qmmpui/libqmmpui.so.2.5.1 \
+  ../../../qmmp/libqmmp.so.2.5.1 \
+  /usr/lib/libQt6Network.so.6.12.0 \
+  /usr/lib/libQt6Widgets.so.6.12.0 \
+  /usr/lib/libQt6Gui.so.6.12.0 \
+  /usr/lib/libGLX.so \
+  /usr/lib/libOpenGL.so \
+  /usr/lib/libQt6Core.so.6.12.0 \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/16/libstdc++.so \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/libm.so \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/libm.so \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/libm.so \
+  /usr/lib/libm.so.6 \
+  /usr/lib/libmvec.so.1 \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/16/libgcc_s.so \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/16/libgcc_s.so \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/16/libgcc_s.so \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/libgcc_s.so.1 \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/16/libgcc.a \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/16/libatomic_asneeded.so \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/16/libatomic_asneeded.so \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/16/libatomic_asneeded.so \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/16/libatomic.so \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/libc.so \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/libc.so \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/libc.so \
+  /usr/lib/libc.so.6 \
+  /usr/lib/libc_nonshared.a \
+  /usr/lib/ld-linux-x86-64.so.2 \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/16/libgcc_s.so \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/16/libgcc_s.so \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/16/libgcc_s.so \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/libgcc_s.so.1 \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/16/libgcc.a \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/16/crtendS.o \
+  /usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/crtn.o
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/crti.o:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/16/crtbeginS.o:
+
+CMakeFiles/lyrics.dir/lyrics_autogen/mocs_compilation.cpp.o:
+
+CMakeFiles/lyrics.dir/lyrics.cpp.o:
+
+CMakeFiles/lyrics.dir/lyricsfactory.cpp.o:
+
+CMakeFiles/lyrics.dir/lyricsprovider.cpp.o:
+
+CMakeFiles/lyrics.dir/lyricswidget.cpp.o:
+
+CMakeFiles/lyrics.dir/lyricssettingsdialog.cpp.o:
+
+CMakeFiles/lyrics.dir/ultimatelyricsparser.cpp.o:
+
+CMakeFiles/lyrics.dir/lyrics_autogen/YTRUC5LEIS/qrc_translations.cpp.o:
+
+CMakeFiles/lyrics.dir/lyrics_autogen/BS6B2UBKRC/qrc_providers.cpp.o:
+
+../../../qmmpui/libqmmpui.so.2.5.1:
+
+../../../qmmp/libqmmp.so.2.5.1:
+
+/usr/lib/libQt6Network.so.6.12.0:
+
+/usr/lib/libQt6Widgets.so.6.12.0:
+
+/usr/lib/libQt6Gui.so.6.12.0:
+
+/usr/lib/libGLX.so:
+
+/usr/lib/libOpenGL.so:
+
+/usr/lib/libQt6Core.so.6.12.0:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/16/libstdc++.so:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/libm.so:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/libm.so:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/libm.so:
+
+/usr/lib/libm.so.6:
+
+/usr/lib/libmvec.so.1:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/16/libgcc_s.so:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/16/libgcc_s.so:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/16/libgcc_s.so:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/libgcc_s.so.1:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/16/libgcc.a:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/16/libatomic_asneeded.so:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/16/libatomic_asneeded.so:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/16/libatomic_asneeded.so:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/16/libatomic.so:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/libc.so:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/libc.so:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/libc.so:
+
+/usr/lib/libc.so.6:
+
+/usr/lib/libc_nonshared.a:
+
+/usr/lib/ld-linux-x86-64.so.2:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/16/libgcc_s.so:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/16/libgcc_s.so:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/16/libgcc_s.so:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/libgcc_s.so.1:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/16/libgcc.a:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/16/crtendS.o:
+
+/usr/lib/gcc/x86_64-pc-linux-gnu/16/../../../../lib/crtn.o:

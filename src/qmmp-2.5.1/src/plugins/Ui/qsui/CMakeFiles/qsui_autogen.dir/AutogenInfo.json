@@ -1,0 +1,429 @@
+{
+	"BUILD_DIR" : "/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsui_autogen",
+	"CMAKE_BINARY_DIR" : "/home/chris/qmmp-all/src/qmmp-2.5.1",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/CMakeLists.txt",
+		"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/translations/translations.qrc",
+		"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/txt/qsui_txt.qrc",
+		"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/resources/qsui_resources.qrc"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/chris/qmmp-all/src/qmmp-2.5.1",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsui_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "qsui_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/aboutqsuidialog.h",
+			"MU",
+			"EWIEGA46WW/moc_aboutqsuidialog.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/dockwidgetlist.h",
+			"MU",
+			"EWIEGA46WW/moc_dockwidgetlist.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/elidinglabel.h",
+			"MU",
+			"EWIEGA46WW/moc_elidinglabel.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/filesystembrowser.h",
+			"MU",
+			"EWIEGA46WW/moc_filesystembrowser.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsuiactionmanager.h",
+			"MU",
+			"EWIEGA46WW/moc_qsuiactionmanager.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsuicoverwidget.h",
+			"MU",
+			"EWIEGA46WW/moc_qsuicoverwidget.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsuiequalizer.h",
+			"MU",
+			"EWIEGA46WW/moc_qsuiequalizer.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsuifactory.h",
+			"MU",
+			"EWIEGA46WW/moc_qsuifactory.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsuihotkeyeditor.h",
+			"MU",
+			"EWIEGA46WW/moc_qsuihotkeyeditor.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsuikeyboardmanager.h",
+			"MU",
+			"EWIEGA46WW/moc_qsuikeyboardmanager.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsuilistwidget.h",
+			"MU",
+			"EWIEGA46WW/moc_qsuilistwidget.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsuilistwidgetdrawer.h",
+			"MU",
+			"EWIEGA46WW/moc_qsuilistwidgetdrawer.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsuilogo.h",
+			"MU",
+			"EWIEGA46WW/moc_qsuilogo.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsuimainwindow.h",
+			"MU",
+			"EWIEGA46WW/moc_qsuimainwindow.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsuiplaylistbrowser.h",
+			"MU",
+			"EWIEGA46WW/moc_qsuiplaylistbrowser.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsuiplaylistheader.h",
+			"MU",
+			"EWIEGA46WW/moc_qsuiplaylistheader.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsuipopupsettings.h",
+			"MU",
+			"EWIEGA46WW/moc_qsuipopupsettings.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsuipopupwidget.h",
+			"MU",
+			"EWIEGA46WW/moc_qsuipopupwidget.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsuipositionslider.h",
+			"MU",
+			"EWIEGA46WW/moc_qsuipositionslider.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsuiquicksearch.h",
+			"MU",
+			"EWIEGA46WW/moc_qsuiquicksearch.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsuisettings.h",
+			"MU",
+			"EWIEGA46WW/moc_qsuisettings.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsuishortcutitem.h",
+			"MU",
+			"EWIEGA46WW/moc_qsuishortcutitem.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsuistatusbar.h",
+			"MU",
+			"EWIEGA46WW/moc_qsuistatusbar.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsuistatusbareditor.h",
+			"MU",
+			"EWIEGA46WW/moc_qsuistatusbareditor.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsuitabbar.h",
+			"MU",
+			"EWIEGA46WW/moc_qsuitabbar.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsuitabwidget.h",
+			"MU",
+			"EWIEGA46WW/moc_qsuitabwidget.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsuitoolbareditor.h",
+			"MU",
+			"EWIEGA46WW/moc_qsuitoolbareditor.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsuivisualization.h",
+			"MU",
+			"EWIEGA46WW/moc_qsuivisualization.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsuiwaveformseekbar.h",
+			"MU",
+			"EWIEGA46WW/moc_qsuiwaveformseekbar.cpp",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/volumeslider.h",
+			"MU",
+			"EWIEGA46WW/moc_volumeslider.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsui_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsui_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QMMP_WS_X11",
+		"QT_CORE_LIB",
+		"QT_DEPRECATED_WARNINGS",
+		"QT_DISABLE_DEPRECATED_BEFORE=0x060200",
+		"QT_GUI_LIB",
+		"QT_MESSAGELOGCONTEXT",
+		"QT_NO_DEBUG",
+		"QT_WIDGETS_LIB",
+		"qsui_EXPORTS"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui",
+		"/home/chris/qmmp-all/src/qmmp-2.5.1/src",
+		"/usr/include/qt6/QtWidgets",
+		"/usr/include/qt6",
+		"/usr/include/qt6/QtCore",
+		"/usr/lib/qt6/mkspecs/linux-g++",
+		"/usr/include/qt6/QtGui",
+		"/usr/include",
+		"/usr/include/c++/16",
+		"/usr/include/c++/16/x86_64-pc-linux-gnu",
+		"/usr/include/c++/16/backward",
+		"/usr/lib/gcc/x86_64-pc-linux-gnu/16/include",
+		"/usr/local/include"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT",
+		"Q_ENUM_NS"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-std=gnu++17",
+		"-w",
+		"-dM",
+		"-E",
+		"/usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsui_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/CMakeFiles/qsui_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt6/moc",
+	"QT_UIC_EXECUTABLE" : "/usr/lib/qt6/uic",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 12,
+	"SETTINGS_FILE" : "/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/CMakeFiles/qsui_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/aboutqsuidialog.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/dockwidgetlist.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/elidinglabel.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/filesystembrowser.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsuiactionmanager.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsuicoverwidget.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsuiequalizer.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsuifactory.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsuihotkeyeditor.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsuikeyboardmanager.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsuilistwidget.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsuilistwidgetdrawer.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsuilogo.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsuimainwindow.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsuiplaylistbrowser.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsuiplaylistheader.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsuipopupsettings.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsuipopupwidget.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsuipositionslider.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsuiquicksearch.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsuisettings.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsuishortcutitem.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsuistatusbar.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsuistatusbareditor.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsuitabbar.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsuitabwidget.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsuitoolbareditor.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsuivisualization.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/qsuiwaveformseekbar.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/volumeslider.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [ "/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/Ui/qsui/forms" ],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

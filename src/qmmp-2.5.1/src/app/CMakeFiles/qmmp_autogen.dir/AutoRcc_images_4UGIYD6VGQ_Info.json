@@ -1,0 +1,32 @@
+{
+	"BUILD_DIR" : "/home/chris/qmmp-all/src/qmmp-2.5.1/src/app/qmmp_autogen",
+	"CMAKE_BINARY_DIR" : "/home/chris/qmmp-all/src/qmmp-2.5.1",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/chris/qmmp-all/src/qmmp-2.5.1/src/app",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/chris/qmmp-all/src/qmmp-2.5.1/src/app",
+	"CMAKE_SOURCE_DIR" : "/home/chris/qmmp-all/src/qmmp-2.5.1",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Unix Makefiles",
+	"INCLUDE_DIR" : "/home/chris/qmmp-all/src/qmmp-2.5.1/src/app/qmmp_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/chris/qmmp-all/src/qmmp-2.5.1/src/app/images/256x256/qmmp.png",
+		"/home/chris/qmmp-all/src/qmmp-2.5.1/src/app/images/32x32/qmmp.png",
+		"/home/chris/qmmp-all/src/qmmp-2.5.1/src/app/images/48x48/qmmp.png",
+		"/home/chris/qmmp-all/src/qmmp-2.5.1/src/app/images/64x64/qmmp.png",
+		"/home/chris/qmmp-all/src/qmmp-2.5.1/src/app/images/128x128/qmmp.png",
+		"/home/chris/qmmp-all/src/qmmp-2.5.1/src/app/images/16x16/qmmp.png",
+		"/home/chris/qmmp-all/src/qmmp-2.5.1/src/app/images/scalable/qmmp.svgz",
+		"/home/chris/qmmp-all/src/qmmp-2.5.1/src/app/images/56x56/qmmp.png"
+	],
+	"LOCK_FILE" : "/home/chris/qmmp-all/src/qmmp-2.5.1/src/app/CMakeFiles/qmmp_autogen.dir/AutoRcc_images_4UGIYD6VGQ_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "images" ],
+	"OUTPUT_CHECKSUM" : "4UGIYD6VGQ",
+	"OUTPUT_NAME" : "qrc_images.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt6/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/chris/qmmp-all/src/qmmp-2.5.1/src/app/CMakeFiles/qmmp_autogen.dir/AutoRcc_images_4UGIYD6VGQ_Used.txt",
+	"SOURCE" : "/home/chris/qmmp-all/src/qmmp-2.5.1/src/app/images/images.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

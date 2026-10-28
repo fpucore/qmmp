@@ -1,6 +1,6 @@
-# Qmmp (for H-Linux)
+# Qmmp (for GNU Operating System / H-Linux)
 
-(Patched Qmmp audio-player, supporting the ffmpeg-next framework. Compiled for H-Linux.)
+(Patched Qmmp audio-player, supporting the ffmpeg-next framework. Compiled for GNU Operating System / H-Linux.)
 
 An upstream, patched build of the Qmmp audio player, explicitly modified and compiled for the GNU Operating System / H-Linux environment, and compatibility with the ffmpeg-next framework.
 
@@ -21,12 +21,12 @@ This package is intended for deep integration with the GNU Operating system / H-
 It requires the following components:
 
 * GNU Operating System / H-Linux
+* NLP
 * H-Linux Standard Library
-* goto
 * H-Linux Human Command Layer
 * ffmpeg-next
 
-## ⚙️ Build Script (INSTALL.sh)
+## ⚙️ Build Script (INSTALL.
 
 Standard makepkg execution aggressively extracts fresh source archives, which will instantly destroy local source code modifications.
 
@@ -43,18 +43,30 @@ This script performs a targeted "sterilization sweep" before compilation:
 1. Clone the repository:
 
 ```bash
-git clone https://www.github.com/fpucore/qmmp
+> gh repo clone fpucore/qmmp
 ```
 
-2. Execute the build script:
+2. Goto the directory:
 
 ```bash
-./INSTALL.sh
+> goto qmmp
+```
+
+3. Compile:
+
+```bash
+> $here/INSTALL
+```
+
+4. Install:
+
+```bash
+> nlp -U *.zst
 ```
 
 ## 📝 Maintenance Notes
 
-If you need to make further modifications to the source code, simply edit the files in the src/qmmp-*/ directory and re-run the build script (INSTALL.sh).
+If you need to make further modifications to the source code, modify the source files in the src/qmmp-*/ directory.
 
 The build script will automatically clear the old CMake cache and generate a fresh package containing your latest changes.
 

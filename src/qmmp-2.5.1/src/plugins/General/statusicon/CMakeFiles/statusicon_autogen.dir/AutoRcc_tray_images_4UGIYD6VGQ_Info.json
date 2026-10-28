@@ -1,0 +1,28 @@
+{
+	"BUILD_DIR" : "/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/General/statusicon/statusicon_autogen",
+	"CMAKE_BINARY_DIR" : "/home/chris/qmmp-all/src/qmmp-2.5.1",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/General/statusicon",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/General/statusicon",
+	"CMAKE_SOURCE_DIR" : "/home/chris/qmmp-all/src/qmmp-2.5.1",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Unix Makefiles",
+	"INCLUDE_DIR" : "/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/General/statusicon/statusicon_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/General/statusicon/images/tray_play.png",
+		"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/General/statusicon/images/empty_cover.png",
+		"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/General/statusicon/images/tray_pause.png",
+		"/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/General/statusicon/images/tray_stop.png"
+	],
+	"LOCK_FILE" : "/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/General/statusicon/CMakeFiles/statusicon_autogen.dir/AutoRcc_tray_images_4UGIYD6VGQ_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "tray_images" ],
+	"OUTPUT_CHECKSUM" : "4UGIYD6VGQ",
+	"OUTPUT_NAME" : "qrc_tray_images.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt6/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/General/statusicon/CMakeFiles/statusicon_autogen.dir/AutoRcc_tray_images_4UGIYD6VGQ_Used.txt",
+	"SOURCE" : "/home/chris/qmmp-all/src/qmmp-2.5.1/src/plugins/General/statusicon/images/tray_images.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}
