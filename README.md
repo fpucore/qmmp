@@ -26,13 +26,17 @@ It requires the following components:
 * H-Linux Human Command Layer
 * ffmpeg-next
 
-## ⚙️ Build Script (INSTALL.
+## ⚙️ Build Binary (INSTALL)
 
 Standard makepkg execution aggressively extracts fresh source archives, which will instantly destroy local source code modifications.
 
-To safely compile this package, and protect the source code, use ONLY the included INSTALL.sh build script.
+Therefore, source pulls are disabled by default.
 
-This script performs a targeted "sterilization sweep" before compilation:
+To safely compile this package, and protect the source code, use ONLY the included INSTALL build binary.
+
+The source code (Hash) for the build script and the binary are both available in the source code tree.
+
+This binary performs a targeted "sterilization sweep" before compilation:
 
 - Detects and destroys volatile CMake artifacts (CMakeCache.txt, CMakeFiles)
 - Sweeps auto-generated compiler_depend.ts files
